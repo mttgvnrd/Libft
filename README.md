@@ -33,3 +33,7 @@ git clone https://github.com/mttgvnrd/Libft.git
 cd Libft
 make        # Compila libft.a (obbligatorio)
 make bonus  # Aggiunge le funzioni bonus
+
+![Libft](https://img.shields.io/badge/Libft-Complete-brightgreen)
+![Bonus](https://img.shields.io/badge/Bonus-Complete-green)
+![Norm](https://img.shields.io/badge/Norminette-OK-blue)
